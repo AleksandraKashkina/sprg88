@@ -8,4 +8,4 @@ def is_whole_number(number):
 
 my_numbers = [1, 2, 3]
 for my_number in my_numbers:
-    print(is_whole_number(number))
+    print(is_whole_number(my_number))
